@@ -1,1 +1,2 @@
-console.log("Ciao!");
+import './app/signupForm.js'
+
